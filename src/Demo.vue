@@ -43,9 +43,8 @@ export default {
     }
 
     .container {
-        width: 60vw;
-        text-align: center;
         flex: 0 1 auto;
+        width: 60vw;
         font-size: 6vw;
         font-weight: bold;
         letter-spacing: -0.2vw;
