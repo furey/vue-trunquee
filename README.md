@@ -10,6 +10,14 @@ A truncated marquee component for [Vue.js](http://vuejs.org/).
 
 See: `/src/components/Trunquee.vue`
 
+## Props
+
+| Name     | Type   | Description                                 |
+| :---     | :---   | :---                                        |
+| `text`   | String | Text to truncate (required)                 |
+| `speed`  | Number | Marquee speed in milliseconds (default: 85) |
+| `cursor` | String | CSS cursor on hover (default: 'help')       |
+
 ## Usage
 
 See: `/src/Demo.vue`
