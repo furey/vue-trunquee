@@ -1,10 +1,8 @@
 import Vue from 'vue'
 import Demo from './Demo.vue'
 
+Vue.config.productionTip = false
+
 new Vue({
-
-  el: '#demo',
-
-  render: h => h(Demo)
-
-});
+  render: h => h(Demo),
+}).$mount('#demo')

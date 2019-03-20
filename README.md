@@ -26,5 +26,5 @@ See: `/src/Demo.vue`
 
 ``` bash
 npm install
-npm run dev
+npm run serve
 ```
