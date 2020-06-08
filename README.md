@@ -8,7 +8,7 @@ A truncated marquee component for [Vue.js](http://vuejs.org/).
 
 ## Vue Component Source
 
-See: `/src/components/Trunquee.vue`
+See: [`/src/components/Trunquee.vue`](/src/components/Trunquee.vue)
 
 ## Props
 
@@ -20,7 +20,7 @@ See: `/src/components/Trunquee.vue`
 
 ## Usage
 
-See: `/src/Demo.vue`
+See: [`/src/Demo.vue`](/src/Demo.vue)
 
 ## Demo
 
